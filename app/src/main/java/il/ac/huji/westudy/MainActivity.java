@@ -27,7 +27,7 @@ public class MainActivity extends FragmentActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.main);
+        setContentView(R.layout.activity_main);
 
         tabs = (PagerSlidingTabStrip) findViewById(R.id.tabs);
         //tabs.sett
