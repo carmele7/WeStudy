@@ -30,6 +30,7 @@ public class Group {
         this.maxPart = maxPart;
         this.place = place;
         this.name = name;
+        // Jonny is king!
     }
 
     /**
